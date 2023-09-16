@@ -1,0 +1,75 @@
+
+[
+    {
+      "id": "1",
+      "name": "Introduction to C Programming",
+      "img": "https://i.postimg.cc/nhG0R80P/Rectangle-2-2.png",
+      "details": "The Introduction to C Programming course introduces the C programming language and its fundamentals. Topics include syntax, data types, control structures, functions, and memory management. Students gain hands-on experience in writing, compiling, and debugging C code, laying the foundation for software development and system programming skills.",
+      "price": "15000",
+      "credit": "1hr"
+    },
+    {
+      "id": "2",
+      "name": "Introduction to Algorithms",
+      "img": "https://i.postimg.cc/9QZpnGpg/Rectangle-2-3.png",
+      "details": "The Introduction to Algorithms course explores foundational concepts in algorithm design and analysis. Topics cover sorting, searching, data structures, complexity analysis, and graph algorithms. Students learn to solve computational problems efficiently, with a focus on algorithmic thinking and problem-solving techniques. Practical exercises and assignments enhance algorithmic problem-solving skills.",
+      "price": "25000",
+      "credit": "2hr"
+    },
+    {
+      "id": "3",
+      "name": "Introduction to C++ for DSA",
+      "img": "https://i.postimg.cc/J4PD4th7/Rectangle-2-4.png",
+      "details": "The Introduction to C++ for DSA (Data Structures and Algorithms) course introduces C++ programming, emphasizing its application in data structures and algorithms. Topics include classes, templates, standard libraries, and fundamental data structures like arrays and linked lists. Students develop proficiency in C++ coding for efficient algorithm implementation and problem-solving.",
+      "price": "10000",
+      "credit": "10hr"
+    },
+    {
+      "id": "4",
+      "name": "Basic Data Structures",
+      "img": "https://i.postimg.cc/mkdHqrzr/Rectangle-3.png",
+      "details": "The Data Structures course covers essential concepts like arrays, linked lists, stacks, queues, trees, and graphs. Students learn how to manipulate and optimize data storage and retrieval. Practical coding exercises and algorithms development are included to strengthen problem-solving skills, enabling efficient data management in software development.",
+      "price": "35000",
+      "credit": "5hr"
+    },
+    {
+      "id": "5",
+      "name": "Introduction to OOP Python",
+      "img": "https://i.postimg.cc/05ZXxd7z/Rectangle-2.png",
+      "details": "The Object-Oriented Programming (OOP) course in Python introduces fundamental concepts like classes, objects, inheritance, and polymorphism. Students learn to design and implement modular, reusable code using OOP principles. Practical exercises and projects enhance comprehension, enabling participants to create robust, maintainable Python programs.",
+      "price": "19000",
+      "credit": "5hr"
+    },
+    {
+      "id": "6",
+      "name": "Software Engineering",
+      "img": "https://i.postimg.cc/6Qy42KPs/Rectangle-2-5.png",
+      "details": "The Software Engineering course encompasses software development methodologies, project management, requirements analysis, design, coding, testing, and maintenance. It focuses on industry best practices for building reliable, scalable, and maintainable software systems. Students gain skills in software project planning, teamwork, and quality assurance through hands-on projects and case studies.",
+      "price": "23000",
+      "credit": "2hr"
+    },
+    {
+      "id": "7",
+      "name": "AWS, Cloud Computing",
+      "img": "https://i.postimg.cc/RhRZppYQ/Rectangle-3-1.png",
+      "details": "The AWS Cloud Computing course provides a comprehensive understanding of Amazon Web Services (AWS) cloud infrastructure. Topics include cloud architecture, services like EC2, S3, and Lambda, scalability, security, and cost management. Hands-on labs and real-world scenarios enable students to deploy, manage, and optimize cloud-based solutions using AWS services.",
+      "price": "35000",
+      "credit": "5hr"
+    },
+    {
+      "id": "8",
+      "name": "Database (MySQL)",
+      "img": "https://i.postimg.cc/3JfKyGQR/Rectangle-2-1.png",
+      "details": "The MySQL Database course covers database fundamentals, SQL query language, database design, and administration. Students learn to create, retrieve, update, and manage data using MySQL. Topics include indexing, normalization, and security. Hands-on exercises and projects enable students to design and implement efficient MySQL databases for various applications.",
+      "price": "19000",
+      "credit": "5hr"
+    },
+    {
+      "id": "9",
+      "name": "Problem-Solving Part",
+      "img": "https://i.postimg.cc/fy2h0GFF/Rectangle-2-6.png",
+      "details": "The Problem-Solving course teaches essential problem-solving techniques. It includes critical thinking, algorithm design, and debugging strategies. Students learn to break down complex problems, develop systematic solutions, and apply coding skills. Practical exercises and puzzles enhance problem-solving abilities, preparing participants for various technical challenges in software development and beyond.",
+      "price": "23000",
+      "credit": "2hr"
+    }
+  ]
